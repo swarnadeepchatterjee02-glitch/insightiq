@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[https://huggingface.co/spaces/s0chat12/insightiq](https://huggingface.co/spaces/s0chat12/insightiq)**
+👉 **[https://huggingface.co/spaces/s0chat12/insightiq](https://huggingface.co/spaces/swarnadeep-chatterjee/insightiq)**
 
 ---
 
