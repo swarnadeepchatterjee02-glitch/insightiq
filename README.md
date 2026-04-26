@@ -2,7 +2,7 @@
 
 > Upload any dataset → Ask questions in plain English → Get instant business insights
 
-[![Live App](https://img.shields.io/badge/🚀_Live_App-Hugging_Face-yellow)](https://huggingface.co/spaces/s0chat12/insightiq)
+[![Live App](https://img.shields.io/badge/🚀_Live_App-Hugging_Face-yellow)](https://huggingface.co/spaces/swarnadeep-chatterjee/insightiq)
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red)](https://streamlit.io)
 [![Groq](https://img.shields.io/badge/LLM-Groq_LLaMA_3.3_70B-green)](https://groq.com)
